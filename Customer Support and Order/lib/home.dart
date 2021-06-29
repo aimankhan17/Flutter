@@ -77,8 +77,6 @@ Widget page(
       ),
       borderRadius: BorderRadius.circular(10),
     ),
-    // child: Container(
-    //   color: Colors.blue,
     child: ListTile(
       title: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
