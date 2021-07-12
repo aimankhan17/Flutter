@@ -3,9 +3,10 @@ import 'dart:ui';
 import 'package:ecom/screen1.dart';
 import 'package:ecom/screen3.dart';
 import 'package:ecom/screen4.dart';
+import 'package:ecom/screen2.dart';
 import 'package:flutter/material.dart';
 
-import 'screen2.dart';
+
 
 class Home extends StatefulWidget {
   @override
